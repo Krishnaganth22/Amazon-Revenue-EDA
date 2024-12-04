@@ -59,8 +59,10 @@ Low-Revenue Cities: Need to analyze underperforming cities, identify their speci
   
   For detailed visualizations and code, refer to the included analysis files.
 
-Author: [Krishnaganth]
-Date: [05/12/2024]
+Author: Krishnaganth
+
+Date: 05/12/2024
+
 Tools Used: Python (Pandas, Matplotlib, Seaborn)
 
 
